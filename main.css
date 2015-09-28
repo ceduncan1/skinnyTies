@@ -1,3 +1,144 @@
 body {
-  
+  text-align: center;
+  background-color: white;
+  font-family: 'Titillium Web', sans-serif;
 }
+
+body ul {
+  list-style: none;
+}
+
+body a {
+  text-decoration: none;
+}
+
+/*Top bar*/
+.topBar {
+  text-align: left;
+  background-color: #FC682C;
+  color: white;
+  padding: 10px;
+}
+
+.shipping {
+  background-color: #C95323;
+  padding: 3px;
+  border-radius: ;
+}
+
+.tbText{
+  padding: 0 8px;
+}
+
+
+/*Header*/
+.header {
+  text-align: left;
+}
+
+
+
+/*Ties*/
+.ties {
+  background-color: #F4F4F4;
+  text-align: center;
+}
+
+.categories {
+  display: inline-block;
+}
+
+
+/*Ties subtitle*/
+.subtitle {
+  background-color: #F4F4F4;
+}
+
+
+/*Body*/
+.bodyBoxes {
+  background-color: white;
+}
+
+.links {
+  background-color: #F4F4F4;
+  display: inline-block;
+  padding: 5px;
+  font-weight: bold;
+}
+
+
+/*Block quote*/
+.quote {
+  text-align: center;
+}
+blockquote {
+  font-style: italic;
+}
+.quote a {
+  color: #299EFF;
+}
+
+
+/*X border*/
+
+
+
+/*Bottom bar*/
+.sitMap a {
+  color: #299EFF;
+}
+
+.bbBoxes {
+  text-align: left;
+  display: inline-block;
+  vertical-align: top;
+  width: 300px;
+}
+
+.bottomBar .striped {
+  /*background-image: url('/Pictures/assets/striped.jpg');*/
+  height: 30px;
+}
+
+
+/*Site map and contact bar*/
+.bottom {
+  text-align: left;
+  background-color: #F4F4F4;
+  color: #9B9B9B;
+  vertical-align: top;
+}
+
+.smBlock {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 10px;
+}
+
+.smTitle {
+  color: black;
+  font-weight: bold;
+  margin: 8px 0;
+}
+
+.smText a {
+  color: #9B9B9B;
+}
+
+.contact {
+  background-color: #A2AFC1;
+  border-radius: 3px;
+  color: white;
+}
+
+.contact button {
+  background-color: #299EFF;
+  border-color: #2489DF;
+}
+
+
+/*Footer*/
+
+
+
